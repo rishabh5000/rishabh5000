@@ -213,7 +213,7 @@ Web-based recommendation engine.
 
 ## 🐍 Contribution Activity
 
-![snake gif](https://github.com/rishabh5000/rishabh5000/blob/output/github-snake.svg)
+![snake gif](https://github.com/rishabh5000/rishabh5000/blob/output/github-snake-dark.svg)
 
 ---
 
