@@ -23,42 +23,65 @@
 🧠 Strong CS Fundamentals: Data Structures, Operating Systems, DBMS, Computer Networks  
 🏆 Hackathon Winner | 200+ DSA Problems Solved  
 
-I build AI systems that move beyond experimentation into real-world deployment.
+I build AI systems that move beyond experimentation into reliable, production-ready deployments.
 
 ---
 
-## 📌 🎯 Open to Internship Opportunities
+## 📌 Open to Opportunities
 
-I am actively seeking internship opportunities in:
+Actively seeking internships in:
 
-- 🤖 AI/ML Engineering  
-- 🔍 Retrieval-Augmented Generation (RAG) Systems  
-- 📊 Production ML & MLOps  
-- 🏗️ Enterprise AI Systems  
-
-If you're looking for a motivated, experienced intern with production-level AI exposure — feel free to reach out.
+- AI / ML Engineering  
+- Retrieval-Augmented Generation Systems  
+- Production ML & MLOps  
+- Enterprise AI Architectures  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Languages
-![Skills](https://skillicons.dev/icons?i=python,cpp,postgres)
+### Programming
+![Skills](https://skillicons.dev/icons?i=python,cpp,postgres,git)
 
-### AI / ML
-LangChain • LangGraph • Pinecone • TensorFlow • Scikit-learn  
-RAG Pipelines • LLM Integration • Cross-Encoder Reranking  
-IndicBERT • Sentence Transformers • OCR Pipelines  
-NLP • Computer Vision  
-
-### Backend & Infra
-Django • Flask • Streamlit • Docker • GitHub Actions • PostgreSQL  
+Python • C++ • SQL  
 
 ---
 
-## 🏦 Production Experience
+### AI & Machine Learning
+Machine Learning Algorithms  
+Deep Learning  
+Natural Language Processing  
+Computer Vision  
+LangChain • LangGraph • RAG Architectures  
+LLMs & Agentic Workflows  
 
-### Fino Payments Bank – Enterprise RAG Pipeline
+---
+
+### Libraries & Frameworks
+NumPy • Pandas • Scikit-learn  
+TensorFlow  
+Django • Flask • Streamlit  
+
+---
+
+### Data Engineering
+Data Preprocessing & Cleaning  
+Feature Engineering  
+Data Analysis & Visualization  
+
+---
+
+### Core CS
+Data Structures & Algorithms  
+Operating Systems  
+Database Management Systems  
+Computer Networks  
+
+---
+
+# 🏦 Production Experience
+
+## Fino Payments Bank – Enterprise RAG Pipeline
 
 - Architected enterprise RAG pipeline processing 1000+ banking documents daily  
 - Hybrid retrieval (Dense + Sparse + Cross-Encoder reranking)  
@@ -70,90 +93,112 @@ Django • Flask • Streamlit • Docker • GitHub Actions • PostgreSQL
 
 ---
 
-# 🚀 Projects
+# 🚀 Major Projects
 
-## 🧠 AI / ML
+---
 
-### Beat-wise ECG Arrhythmia Detection
-Deep learning heartbeat classifier trained on ECG signals for medical arrhythmia classification.
+## 🧠 Agentic NL-to-SQL System
 
-### Docusphere – Multilingual Document AI
-- 700,000+ multilingual chunks processed  
-- 95% routing accuracy using IndicBERT  
-- OCR + NER + RAG automation  
-- Reduced manual review effort by 85%
+**Technologies:** FastAPI, LangGraph, PostgreSQL, Python, React, REST APIs, LLMs  
 
-### Verifact – AI Misinformation Engine
-- Text, image, and audio verification pipeline  
-- 92% deepfake detection accuracy  
-- Evidence-grounded LLM response generation  
+- Engineered a FastAPI + LangGraph–based backend translating complex natural language into safe, read-only PostgreSQL queries  
+- Multi-step planning, schema-aware reasoning, ambiguity detection, and self-correction  
+- Reduced failed query generations by ~70%  
+- Improved execution accuracy on complex queries by ~60%  
 
-### ISL Detection System
-- Real-time sign language recognition  
+Advanced Features:
+- Multi-agent orchestration layer using LangGraph  
+- Implemented BFS-based Foreign Key graph traversal algorithm reducing LLM token usage by ~40%  
+- Smart Refiner module with Human-in-the-Loop (HITL) MCQ clarification workflows  
+- Increased query intent alignment by 85% over zero-shot baseline  
+- Self-healing SQL validation enforcing FK joins, column existence, GROUP BY constraints  
+- Corrected 95% hallucinated queries before execution  
+
+---
+
+## 🧠 Deepfake Image Detection System
+
+**Technologies:** Python, TensorFlow, EfficientNetB1, CNN, DFT, ELA, Computer Vision  
+
+- Built multi-branch deepfake detector combining EfficientNetB1 spatial features with CNNs over DFT magnitude/phase and ELA maps  
+- Achieved 97% training accuracy and 95% validation accuracy  
+- ROC-tuned decision threshold with 0.95 precision and recall on 1,280 validation samples  
+- Regularized training using dropout, Gaussian noise, label smoothing, targeted augmentations  
+- Modular preprocessing pipeline for frequency-domain and ELA signals  
+- Improved robustness to low-resolution and non-facial deepfake manipulations  
+
+---
+
+## 🗂 Docusphere – Multilingual Document AI
+
+**Technologies:** OCR, Transformers, RAG, NLP, Automation  
+
+- Processed 700,000+ multilingual chunks from 100+ PDFs  
+- Achieved 95% routing accuracy using IndicBERT  
+- Integrated multilingual sentence transformers and Pinecone RAG  
+- Automated OCR extraction (Malayalam + English)  
+- Implemented NER using spaCy and IndicNER  
+- Reduced manual review effort by 85%  
+
+---
+
+## 🧠 Verifact – AI Misinformation Engine
+
+**Technologies:** LLMs, RAG, Computer Vision, Audio Processing  
+
+- Multimodal verification (text, image, audio)  
+- Evidence-grounded LLM verdict generation  
+- 92% deepfake detection model  
+- WhatsApp bot + Web App integration  
+
+---
+
+## 🤟 ISL – Indian Sign Language Detection
+
+**Technologies:** Python, TensorFlow, MediaPipe, LSTM  
+
 - 94% accuracy across 35+ gestures  
+- 3,500+ training samples  
 - 40ms inference latency  
-
-### Fake News Prediction
-NLP-based classification model for misinformation detection.
-
-### Spam Email Classifier
-Machine learning model for spam detection and filtering.
-
-### Bioinformatics ML Hackathon
-Machine learning modeling on biological datasets.
+- 25+ FPS CPU performance  
+- Real-time webcam pipeline with confidence scoring  
 
 ---
 
-## 📊 Data / Analytics
+## 💻 Systems & Core CS
 
-### Whatsapp Chat Analyzer
-Chat insights, visualization dashboards, and behavioral analysis.
+### CHIP-8 Emulator (C++)
+Custom emulator implementation.
 
----
-
-## 💻 Systems / Core CS
-
-### Chip8 Emulator
-C++ implementation of CHIP-8 emulator.
-
-### Git Project
-C-based implementation of Git version control fundamentals.
+### Git Implementation (C)
+Core Git logic built from scratch.
 
 ### DSA Repository
-200+ Data Structures and Algorithms problems solved.
+200+ problems solved across topics.
 
 ---
 
-## 🌐 Full Stack / Web
+## 🌐 Full Stack
 
 ### Electronic Health Record System
-PHP-based healthcare record management system.
+PHP-based healthcare record platform.
 
 ### Book Recommender System
-Recommendation engine web application.
+Web-based recommendation engine.
 
 ---
 
-## 🏆 Hackathons & Competitions
+# 🏆 Achievements
 
-- 🥇 Analytica Data Science Hackathon — Winner  
-- 🥈 BioInformatics ML Competition — 2nd Place  
-- 🏅 StackHack ML (IIT Goa) — 4th Place  
-- IIT Goa Hackathon Project  
-- IISC Hackathon Project  
-
----
-
-## 🤝 Collaborations
-
-- NLP2SQL Query System — Natural Language to SQL conversion  
-- Construction PPE Detection — Computer Vision safety detection  
-- Deepfake Detection — GAN-based detection system  
-- KMRL Project — Metro document automation system  
+🥇 Winner – Analytica Data Science Hackathon  
+🥈 2nd – BioInformatics ML Competition  
+🏅 4th – StackHack ML (IIT Goa)  
+⭐ 3-Star CodeChef (1658)  
+🧩 200+ DSA Problems  
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabh5000&show_icons=true&theme=tokyonight" />
@@ -174,7 +219,6 @@ Recommendation engine web application.
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-jain-7a47881b6)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainrishabh5000@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabh5000)
+[LinkedIn](https://linkedin.com/in/rishabh-jain-7a47881b6)  
+Email: jainrishabh5000@gmail.com  
 
