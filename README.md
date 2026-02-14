@@ -34,8 +34,7 @@ I am **actively seeking internship opportunities** in:
 ### Core Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![PHP](https://skillicons.dev/icons?i=php)
+![SQL](https://skillicons.dev/icons?i=sql)
 
 ### AI / ML
 LangChain • LangGraph • Pinecone • TensorFlow • Scikit-learn  
